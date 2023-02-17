@@ -1,0 +1,324 @@
+.pb{
+    background-color: rgb(220, 55, 83);
+    height: 600px;
+    width:100%;
+
+}
+body,html{
+    height: 100%;
+    margin: 0;
+    width: 100%;
+    padding: 0;
+}
+#tin{
+    font-size:xx-large;
+    color: white;
+    padding-left: 75px;
+    padding-top: 50px ;
+    font-family: 'Courgette', cursive;
+font-family: 'Sacramento', cursive;
+font-family: 'Satisfy', cursive;
+font-family: 'Ubuntu', sans-serif;
+font-weight: bolder;
+}
+
+#nav{
+    font-size:large;
+    color: white;
+    padding-left: 75px;
+    padding-top: 50px ;
+    font-family: 'Courgette', cursive;
+    font-family: 'Sacramento', cursive;
+    font-family: 'Satisfy', cursive;
+    font-family: 'Ubuntu', sans-serif;
+    display: inline;
+    justify-content: space-between;
+    text-align: right;
+    margin-left: 500px;
+    opacity: 0.6;
+
+}
+#nav1{
+    font-size:large;
+    color: white;
+    padding-left: 75px;
+    padding-top: 50px ;
+    font-family: 'Courgette', cursive;
+    font-family: 'Sacramento', cursive;
+    font-family: 'Satisfy', cursive;
+    font-family: 'Ubuntu', sans-serif;
+    display: inline;
+    justify-content: space-between;
+    text-align: right;
+    opacity: 0.6;
+
+    
+}
+#nav2{
+    font-size:large;
+    color: white;
+    padding-left: 75px;
+    padding-top: 50px ;
+    font-family: 'Courgette', cursive;
+    font-family: 'Sacramento', cursive;
+    font-family: 'Satisfy', cursive;
+    font-family: 'Ubuntu', sans-serif;
+    display: inline;
+    justify-content: space-between;
+    text-align: right;
+    opacity: 0.6;
+
+    
+}
+#tag{
+    padding-left: 75px;
+    color: white;
+    font-family: 'Anton', sans-serif;
+    height:500px;
+    width: 400px;
+    font-size: xx-large;
+    padding-top: 70px;
+}
+#apd{
+    font-size: 22px;
+    background-color:black;
+    border: 1px solid rgb(0, 0, 0);
+    color: white;
+    padding: 5px;
+
+}
+#gd{
+    margin-left: 16px;
+    font-size: 22px;
+    background-color: rgb(220, 55, 83);
+    padding: 5px;
+    color: white;
+    border: 1px solid white;
+
+}
+#apd:hover{
+    background-color: black;
+    color: white;
+    border: 1px solid black;
+
+}
+#gd:hover{
+    background-color: white;
+    color: black;
+    border: 1px solid white;
+
+}
+#sp{
+    padding-top: 150px;
+}
+#tick{
+    color: rgb(132, 64, 64);
+    padding-left:200px;
+}
+#box{
+    display: inline-block;
+    height: 300px;
+    width: 400px;
+
+    justify-content: space-between;
+    margin-left: 100px;
+    margin-top: 20px;
+
+    
+}
+#box1{
+    display: inline-block;
+    height: 300px;
+    width: 400px;
+
+    justify-content: space-between;
+    margin-left: 50px;
+    margin-top: 20px;
+
+    
+}
+#box2{
+    display: inline-block;
+    height: 300px;
+    width: 400px;
+    margin-top: 20px;
+    justify-content: space-between;
+    margin-left: 50px;
+
+    
+}
+#no{
+    font-size: xx-large;
+    font-family: 'Anton', sans-serif;
+
+}
+#secpi{
+    margin-top: 100px;
+    background-color: rgb(245, 95, 120);
+    height: 800px;
+    align-items: center;
+
+    
+
+}
+#sen{
+    margin: 25px 100px 100px 100px;
+    padding: 75px 150px 75px 150px;
+    position: absolute;
+    text-align: center;
+    font-family: 'Anton', sans-serif;
+    font-size: 65px;
+    color: white;
+
+}
+#peb{
+    margin-left: 25px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: medium;
+    font-weight: bold;
+}
+#tc{
+    margin-left: 300px;
+}
+#tn{
+    margin-left: 35px;
+
+}
+#biz{
+    margin-left: 35px;
+
+
+}
+#mash{
+    margin-left: 35px;
+
+
+}
+#hw{
+    font-family: 'Hind Siliguri', sans-serif;
+    font-weight: bold 700;
+    font-size: 60px;
+    padding-top: 100px;
+    
+}
+.dogsal1{
+    display: inline-block;
+    height: 320px;
+    width: 300px;
+    border: 1px solid #000;
+    margin-left: 300px;
+    margin-top: 100px;
+}
+.dogsal2{
+    display: inline-block;
+    height: 320px;
+    width: 300px;
+    border: 1px solid #000;
+    margin-top: 100px;
+    margin-left: 30px;
+}
+.dogsal3{
+    display: inline-block;
+    height: 320px;
+    width: 300px;
+    border: 1px solid #000;
+    margin-top: 100px;
+    margin-left: 30px;
+}
+#chi{
+    text-align: center;
+    background-color:rgb(228, 227, 227);
+    height:40px;
+    border-bottom:1px solid rgb(165, 165, 165);
+    padding-top:8px;
+    padding-bottom: 15px;
+    font-size: xx-large;
+    font-family: 'Hind Siliguri', sans-serif;
+
+
+}
+#lab{
+    text-align: center;
+    background-color:rgb(228, 227, 227);
+    height:40px;
+    border-bottom:1px solid rgb(165, 165, 165);
+    padding-top:8px;
+    padding-bottom: 15px;
+    font-size: xx-large;
+    font-family: 'Hind Siliguri', sans-serif;
+
+
+}
+#mas{
+    text-align: center;
+    background-color:rgb(228, 227, 227);
+    height:40px;
+    border-bottom:1px solid rgb(165, 165, 165);
+    padding-top:8px;
+    padding-bottom: 15px;
+    font-size: xx-large;
+    font-family: 'Hind Siliguri', sans-serif;
+
+
+}
+#free{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: xx-large;
+    padding-top: 15px;
+    font-family: 'Anton', sans-serif;
+    font-size: 45px;
+
+}
+#mat{
+    font-family: 'Ubuntu', sans-serif;
+    color: gray;
+    font-weight: bolder;
+}
+#btn{
+    width:250px;
+    height:35px;
+    border-color: #000;
+    background-color: transparent;
+    font-weight: bold;
+    border-radius: 5px;
+}
+#btn:hover{
+    background-color: black;
+    color: white;
+}
+#lap{
+    margin-top: 100px;
+    background-color: rgb(245, 95, 120);
+    height: 500px;
+    align-items: center;
+}
+#aps{
+    font-size: 22px;
+    background-color:black;
+    border: 1px solid rgb(0, 0, 0);
+    color: white;
+    padding: 5px;
+
+}
+#gds{
+    margin-left: 16px;
+    font-size: 22px;
+    background-color: white;;
+    padding: 5px;
+    color: black;
+    border: 1px solid white;
+
+}
+#icons{
+    padding-top: 150px;
+
+}
+#gg{
+    margin-left: 20px;
+}
+#ip{
+    float: right;
+    padding-top: 205px;
+    padding-right: 550px;
+    transform: rotate(30deg);
+}
